@@ -1,0 +1,10 @@
+D:\zensar\ConsoleDemo\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+D:\zensar\ConsoleDemo\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+D:\zensar\ConsoleDemo\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+D:\zensar\ConsoleDemo\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+D:\zensar\ConsoleDemo\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+D:\zensar\ConsoleDemo\Assignment3\Assignment3\bin\Debug\ClassLibraryOfAssignment3.dll
+D:\zensar\ConsoleDemo\Assignment3\Assignment3\bin\Debug\ClassLibraryOfAssignment3.pdb
+D:\zensar\ConsoleDemo\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CopyComplete
+D:\zensar\ConsoleDemo\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+D:\zensar\ConsoleDemo\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
